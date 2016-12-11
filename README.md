@@ -1,5 +1,5 @@
-# vSell #
-*A powerful tool helps sellers and suppliers connect each others efficiently.*
+# Karity #
+* A cool place to give away your old clothes. We cover good news all around the country*
 
 
 ## Dev Enviroment Setup ##
