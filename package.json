@@ -1,12 +1,12 @@
 {
-  "name": "vsell",
+  "name": "karity",
   "version": "1.0.0",
-  "description": "A powerful tool helps sellers and suppliers connect each others efficiently.",
+  "description": "XChange clothes.",
   "main": "vsell_pro.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ordinary!",
+  "author": "Van Phan",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.1",

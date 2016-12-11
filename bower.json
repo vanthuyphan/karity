@@ -1,9 +1,9 @@
 {
-  "name": "vsell",
-  "description": "A powerful tool helps sellers and suppliers connect each others efficiently.",
+  "name": "karity",
+  "description": "xchange clothes",
   "main": "vsell_pro.js",
   "authors": [
-    "Ordinary!"
+    "Van T.Phan"
   ],
   "license": "ISC",
   "moduleType": [
